@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning js/c++
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me alessandro.skvortsov@gmail.vom
+- 📫 How to reach me alessandro.skvortsov@gmail.com
 
 <!---
 HerLove12/HerLove12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
